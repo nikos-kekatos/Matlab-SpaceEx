@@ -1,0 +1,6 @@
+*.DS_Store
+*.gen
+*.txt
+*.cfg
+*.xml
+src/modules_old
